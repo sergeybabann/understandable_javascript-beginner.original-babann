@@ -2,9 +2,10 @@
 
 git repo:
 
+https://github.com/sergeybabann/understandable_javascript-beginner.original-babann
 
 
 lesson complete:
 
 
-video stop:
+video stop: 07 условные операторы - 5.00
