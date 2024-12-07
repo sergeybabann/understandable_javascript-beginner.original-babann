@@ -5,7 +5,7 @@ git repo:
 https://github.com/sergeybabann/understandable_javascript-beginner.original-babann
 
 
-lesson complete:
+lesson complete: 07 Условные конструкции
 
 
-video stop: 07 условные операторы - 5.00
+video stop: 
