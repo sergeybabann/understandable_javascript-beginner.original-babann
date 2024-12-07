@@ -5,7 +5,7 @@ git repo:
 https://github.com/sergeybabann/understandable_javascript-beginner.original-babann
 
 
-lesson complete: 07 Условные конструкции
+lesson complete: 08 Циклы
 
 
 video stop: 
